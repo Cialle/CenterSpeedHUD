@@ -1,0 +1,80 @@
+"Phrases"
+{
+	// ---------- HUD Components ---------- //
+	// DO NOT MAKE NAMES LONGER THAN DISPLAYED HERE //
+	"Menu_Title"
+	{
+		"en"		"CenterSpeed settings"  
+		"chi"		"屏幕中间速度设置"
+	}
+	"Menu_DisplaySpeed"
+	{
+		"en"		"Display Center Speed"
+		"chi"		"显示屏幕中间速度"
+	}
+	"Menu_Dynamic"
+	{
+		"en"		"Dynamic Color"
+		"chi"		"动态显示速度"
+	}
+	"Menu_MoveV"
+	{
+		"en"		"Center Speed Vertically"
+		"chi"		"调整速度显示高度"
+	}
+	"Menu_Static_r"
+	{
+		"en"		"Static Color:Red"
+		"chi"		"调整静态颜色：Red"
+	}
+	"Menu_Static_g"
+	{
+		"en"		"Static Color:Green"
+		"chi"		"调整静态颜色：Green"
+	}
+	"Menu_Static_b"
+	{
+		"en"		"Static Color:Blue"
+		"chi"		"调整静态颜色：Blue"
+	}
+	"Menu_ChangeIncrease_r"
+	{
+		"en"		"Increase Speed Color:Red"
+		"chi"		"调整加速颜色：Red"
+	}
+	"Menu_ChangeIncrease_g"
+	{
+		"en"		"Increase Speed Color:Green"
+		"chi"		"调整加速颜色：Green"
+	}
+	"Menu_ChangeIncrease_b"
+	{
+		"en"		"Increase Speed Color:Blue"
+		"chi"		"调整加速颜色：Blue"
+	}
+	"Menu_ChangeDecrease_r"
+	{
+		"en"		"Decrease Speed Color:Red"
+		"chi"		"调整减速颜色：Red"
+	}
+	"Menu_ChangeDecrease_g"
+	{
+		"en"		"Decrease Speed Color:Green"
+		"chi"		"调整减速颜色：Green"
+	}
+	"Menu_ChangeDecrease_b"
+	{
+		"en"		"Decrease Speed Color:Blue"
+		"chi"		"调整减速颜色：Blue"
+	}
+	"Menu_Default"
+	{
+		"en"		"Reset to default values"
+		"chi"		"重置设置为默认（慎用！）"
+	}
+	"Menu_ChangeVar_Titel"
+	{
+		"en"		"Update data:"
+		"chi"		"修改数值："
+	}
+}
